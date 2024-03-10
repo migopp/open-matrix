@@ -1,0 +1,14 @@
+{
+    "name": "matrix",
+    "version": "1.0.0",
+    "description": "A toy program to access Gheith's matrix for a specified project.",
+    "main": "index.mjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Michael Goppert",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^22.4.1"
+    }
+}
